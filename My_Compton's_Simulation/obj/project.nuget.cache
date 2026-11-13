@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tC5cZwvhOZc=",
+  "success": true,
+  "projectFilePath": "D:\\New folder (2)\\Simulations\\My_Compton's_Simulation\\My_Compton's_Simulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Opvm\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
